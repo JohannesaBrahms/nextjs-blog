@@ -1,7 +1,21 @@
 # nextjs-blog
 A learning project to build a React / Next.js powered blog and deploy it using Vercel
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### Tech Stack 🤔 WiP
+
+|  -  | - |
+| -------- | ------- |
+| Framework  | Next.js 14 |
+| Use Case | Blog / Portfolio |
+| Styling    | Material UI / Styled Components   |
+| CMS | Notion / Strapi |
+|  Database   | Postgres / Supabase   |
+| Auth | Keycloak / NextAuth.js |
+| AI provider | / |
+|  CI / CD   | Github Actions   |
+|  Deployment / Hosting   | Vercel   |
+|  Analytics   | Vercel Analytics   |
+|  Other   | Prettier / ESLint   |
 
 ## Getting Started
 
