@@ -1,6 +1,6 @@
 # nextjs-blog
 A learning project to build a React / Next.js powered blog and deploy it using Vercel
-.
+..
 
 ### Tech Stack 🤔 WiP
 
