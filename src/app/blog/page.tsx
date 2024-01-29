@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import CustomMDX from '../components/mdx';
 
 export const metadata: Metadata = {
   title: 'Blog',
@@ -9,6 +10,8 @@ export const metadata: Metadata = {
 export default function BlogPage() {
   return (
     <section>
-      These are my blog posts
+      <CustomMDX>
+      These are my blog posts in **MARKDOWN**
+      </CustomMDX>
     </section>
   )}
