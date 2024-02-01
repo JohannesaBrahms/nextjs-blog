@@ -1,21 +1,22 @@
 # nextjs-blog
+
 A learning project to build a React / Next.js powered blog and deploy it using Vercel
 
 ### Tech Stack 🤔 WiP
 
-|  -  | - |
-| -------- | ------- |
-| Framework  | Next.js 14 |
-| Use Case | Blog / Portfolio |
-| Styling    | Material UI / Styled Components   |
-| CMS | Notion / Strapi |
-|  Database   | Postgres / Supabase   |
-| Auth | Keycloak / NextAuth.js |
-| AI provider | / |
-|  CI / CD   | Github Actions   |
-|  Deployment / Hosting   | Vercel   |
-|  Analytics   | Vercel Analytics   |
-|  Other   | Prettier / ESLint   |
+| -                    | -                               |
+| -------------------- | ------------------------------- |
+| Framework            | Next.js 14                      |
+| Use Case             | Blog / Portfolio                |
+| Styling              | Material UI / Styled Components |
+| CMS                  | Notion / Strapi                 |
+| Database             | Postgres / Supabase             |
+| Auth                 | Keycloak / NextAuth.js          |
+| AI provider          | /                               |
+| CI / CD              | Github Actions                  |
+| Deployment / Hosting | Vercel                          |
+| Analytics            | Vercel Analytics                |
+| Other                | Prettier / ESLint               |
 
 ## Getting Started
 
@@ -51,4 +52,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
