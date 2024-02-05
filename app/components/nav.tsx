@@ -9,7 +9,7 @@ const navItems = {
   },
   '/about': {
     name: 'about',
-  }
+  },
 };
 
 export function Navbar() {
@@ -20,10 +20,7 @@ export function Navbar() {
           <div>
             {Object.entries(navItems).map(([path, { name }]) => {
               return (
-                <Link
-                  key={path}
-                  href={path}
-                >
+                <Link key={path} href={path}>
                   {name}
                 </Link>
               );
